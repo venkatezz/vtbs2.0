@@ -4,7 +4,7 @@ import '../styles/ticker.css';
 /**
  * Ticker Component
  * Displays three verified business statements in exact order:
- * 1. 5+ Years of Experience
+ * 1. 5+ Years of Business Support Experience
  * 2. Reliable Compliance Support (claim verified; statutory outcomes depend on official authorities)
  * 3. 50+ Clients Served
  *
@@ -12,8 +12,8 @@ import '../styles/ticker.css';
  * Mobile: Seamless, lightweight continuous CSS marquee.
  */
 const TICKER_ITEMS = [
-  '5+ Years of Experience',
-  'Reliable Compliance Support',
+  '5+ Years of Business Support Experience',
+  'IT Solutions & Business Compliance Support',
   '50+ Clients Served'
 ];
 
